@@ -31,6 +31,38 @@
       "year": 2010,
       "quantity": "4",
       "imageURL": "/assets/warp.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "description": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth",
+      "year": 1999,
+      "quantity": "10",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Fellowship of the Ring",
+      "description": "In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages, it fell into the hands of Bilbo Baggins, as told in The Hobbit. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.",
+      "year": "1967",
+      "quantity": "3",
+      "imageURL": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/3585341.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Way of Shadows",
+      "description": "For Durzo Blint, assassination is an art -- and he is the city's most accomplished artist. For Azoth, survival is precarious. Something you never take for granted. As a guild rat, he's grown up in the slums, and learned to judge people quickly -- and to take risks. Risks like apprenticing himself to Durzo Blint. But to be accepted, Azoth must turn his back on his old life and embrace a new identity and name. As Kylar Stern, he must learn to navigate the assassins' world of dangerous politics and strange magics -- and cultivate a flair for death.",
+      "year": 2008,
+      "quantity": "6",
+      "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388293150l/7008431.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Crown Tower",
+      "description": "Hadrian Blackwater, a warrior with nothing to fight for, is paired with Royce Melborn, a thieving assassin with nothing to lose. Hired by an old wizard, they must steal a treasure that no one can reach. The Crown Tower is the impregnable remains of the grandest fortress ever built and home to the realm's most prized possessions. But it isn't gold or jewels that the wizard is after, and if he can just keep them from killing each other, they just might succeed.",
+      "year": 2013,
+      "quantity": "4",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81F4hJSBBRS.jpg"
     }
   ]
 }
